@@ -9,7 +9,7 @@ Desafio baseado no template da Rocketseat.
 ### Executar
 
 ```js
-yarn dev:server
+yarn start
 ```
 
 ### Testes
